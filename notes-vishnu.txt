@@ -1,0 +1,51 @@
+*************** DESCRIPTIF ***********************
+
+formation en ligne pour adultes 
+objectif: formation ligne pour adultes particuliers débutants
+moyens: espace virtuel
+
+
+**************************************************
+
+espace numerique : Listes 
+----------------
+http://typo3.org/about/typo3-the-cms/system-requirements/
+spip(communication soutien) + typo3 (gestion de contenu) 
+
+moyens
+------
+structure
+espace numerique
+contenu => propre creation
+langues de contact =  franÃ§ais / Anglais / Espagnol
+cout = Ã  estimé / 
+prix = 9.75e/2heures verification log cnx
+ordinateurs particulier obligation:
+- pc sans camera ou camera déconnecté 
+- logiciel de communication uniquement dédié par form3w
+
+contrat
+-------
+form3w pas responsable de l'utilisation des contenus une fois le téléchargement effectué
+pas responsable d'une détérioration éventuelle des contenus
+pas responsable de l'utilisation frauduleuses de logiciel pour l'apprentissage hors igne
+
+
+
+moyens de paiements = cheques emploi services, cartes, intgégration étrangers comptes tropcompliqué pour déclaration 
+
+
+
+
+************************************ DEV SERVER 0.1 ************************
+
+fichier base de donnée clea, non pas par upload, mais direct dans le champ formulaire ca passe mieux
+Depuis php4.5 retiré les guillemets magiques psfouuuu
+peut se remplacer par 
+---
+/*set_magic_quotes_runtime(0);*/
+ini_set("magic_quotes_runtime", 0);
+---
+
+
+

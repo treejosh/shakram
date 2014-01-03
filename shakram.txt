@@ -1,0 +1,48 @@
+/********************* 3josh **********************/ 
+Furby experience:
+language:english
+learn shoukram
+
+
+
+object: 1 furby:
+---------------
+langages primaire : anglais + hawai
+possibilité de hack: plusieurs voies:
+* applicatif ok
+* hardware ok
+* immitation : fréquence de plug   XXXXXXXXXX
+= > possibilité d'apprentissage: nul par défault je suppose
+= > étapes enfants: affect+++  nourriture+++ => apprentissageEXP
+src: http://en.wikipedia.org/wiki/Pedicularis_furbishiae
+
+----------------   test 0.01  ----------------
+discover: connecter à l'application, furby clavarde..... :-(
+mise en situation: langues étrangère + appli connecté : null
+wakeup = standby 
+1iere phase: 15min = 3 phrases
+2iemes phases: 1h après aucun mots
+
+******* apparaige 
+frequence +  can't do emela
+do o way byby mella
+c'est qd eté  = moi faim                                             
+bidou = freuqence féminine 
+ 
+tesnou la mémé nounou = 
+TAY = TOI
+DOO = PARLER
+HALT 3 fois je suppose STOP..... NULLL
+
+----------------   test 0.02  ----------------
+ccoconoult  = Positif / reccurrent    e 9 nounou eka                             SURE INTEGRATION 
+7 qd eté / moi sommaire  = negatif  
+au cathé <em>doo<em> boucle = Positif / reccurrent 
+hi thank you mela
+psssss fz  /// grgrr 7 qd été 
+
+do eme la = reponse au cathé 7 une idée de male gros calin =
+
+
+
+
