@@ -1,16 +1,16 @@
 LIS moi
 -------
-Redevenons sérieux, j'ai lancé l'update ou publish via une application....., ensuite j'ai attentdu la préparation de la galette des rois...
+Redevenons sï¿½rieux, j'ai lancï¿½ l'update ou publish via une application....., ensuite j'ai attentdu la prï¿½paration de la galette des rois...
 toujours rien! GRRRR
 
-plutot pas mal, a  part le logiciel, GIThub quand ca FONCTIONNE PAS pas, le mieux est de passer en mode 
+plutot pas mal, aï¿½ part le logiciel, GIThub quand ca FONCTIONNE PAS pas, le mieux est de passer en mode 
 TERMINAL......
 
 git status (verifie les fichiers en ligne, dans la branche voulue.. et leur etat a envoyer ou non)  
-git add mes_fichiers (les ajoutes dans l'index, référence!) 
-git status  (pour les puristes)
+git add mes_fichiers (les ajoutes dans l'index, rï¿½fï¿½rence!) 
+git status  (pour les puristes et vÃ©rifie c'est vrai si on a pas fait dÃ©rreur aund on dÃ©veloppe avec la nomenclature des fichiers)
 git commit (mangermoi?)
-git push ( YYYYY push tout dans le git..... vishnu, le hors-sac, et le dejeuner?  fait delirer :-) )
+git push ( YYYYY push tout dans le git..... vishnu, le hors-sac, et le dejeuner?)
 
 
 
